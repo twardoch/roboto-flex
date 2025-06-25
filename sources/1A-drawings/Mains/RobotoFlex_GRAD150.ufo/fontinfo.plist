@@ -16,73 +16,73 @@
     <array>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>4sK6Kf9LJi</string>
         <key>x</key>
-        <integer>535</integer>
+        <real>535.0</real>
         <key>y</key>
-        <integer>1204</integer>
+        <real>1204.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>1RIGXgYGlI</string>
         <key>x</key>
-        <integer>400</integer>
+        <real>400.0</real>
         <key>y</key>
-        <integer>-416</integer>
+        <real>-416.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>pacfcb4EFr</string>
         <key>x</key>
-        <integer>1616</integer>
+        <real>1616.0</real>
         <key>y</key>
-        <integer>0</integer>
+        <real>0.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>rg8RgKO5AB</string>
         <key>x</key>
-        <integer>506</integer>
+        <real>506.0</real>
         <key>y</key>
-        <integer>1592</integer>
+        <real>1592.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>KATdZ1FY9s</string>
         <key>x</key>
-        <integer>1259</integer>
+        <real>1259.0</real>
         <key>y</key>
-        <integer>215</integer>
+        <real>215.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>90</integer>
+        <real>90.0</real>
         <key>identifier</key>
         <string>IG0opEflHY</string>
         <key>x</key>
-        <integer>85</integer>
+        <real>85.0</real>
         <key>y</key>
-        <integer>666</integer>
+        <real>666.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>DcMQuQWQWy</string>
         <key>x</key>
-        <integer>528</integer>
+        <real>528.0</real>
         <key>y</key>
-        <integer>1077</integer>
+        <real>1077.0</real>
       </dict>
     </array>
     <key>italicAngle</key>

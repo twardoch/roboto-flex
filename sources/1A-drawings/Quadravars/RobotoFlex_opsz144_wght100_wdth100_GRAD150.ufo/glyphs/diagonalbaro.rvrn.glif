@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="diagonalbaro.rvrn" format="2">
-  <advance width="512"/>
+  <advance width="512.0"/>
   <outline>
     <contour>
       <point x="9.333333333333332" y="-122.0" type="line"/>

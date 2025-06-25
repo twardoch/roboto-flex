@@ -1606,6 +1606,13 @@
         <integer>738</integer>
       </array>
     </array>
+    <key>org.unifiedfontobject.normalizer.modTimes</key>
+    <string>version: 0.6.1
+1648592734.8 fontinfo.plist
+1648592734.8 groups.plist
+1648592734.8 kerning.plist
+1648592734.8 layercontents.plist
+1648592734.7 metainfo.plist</string>
     <key>public.glyphOrder</key>
     <array>
       <string>CR</string>
@@ -2555,6 +2562,7 @@
       <string>thinspace</string>
       <string>zerowidthspace</string>
       <string>zerowidthnbspace</string>
+      <string>hryvnia.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

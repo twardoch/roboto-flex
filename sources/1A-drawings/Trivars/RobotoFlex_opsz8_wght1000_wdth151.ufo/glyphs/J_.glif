@@ -2,7 +2,7 @@
 <glyph name="J" format="2">
   <advance width="1443"/>
   <unicode hex="004A"/>
-  <anchor x="636" y="0" name="bottom"/>
+  <anchor x="663" y="0" name="bottom"/>
   <anchor x="1040" y="1456" name="top"/>
   <outline>
     <contour>

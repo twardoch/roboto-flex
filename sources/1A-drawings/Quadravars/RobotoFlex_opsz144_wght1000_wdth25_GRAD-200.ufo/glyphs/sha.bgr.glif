@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sha.bgr" format="2">
-  <advance width="1518"/>
+  <advance width="1518.0"/>
   <outline>
     <contour>
       <point x="1507.5" y="914.0" type="line"/>

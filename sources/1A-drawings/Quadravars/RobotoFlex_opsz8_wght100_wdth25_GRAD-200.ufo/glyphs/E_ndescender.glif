@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Endescender" format="2">
-  <advance width="1251"/>
+  <advance width="1269.0"/>
   <unicode hex="04A2"/>
   <outline>
     <contour>
@@ -12,10 +12,10 @@
       <point x="980.0" y="1456.0" type="line"/>
       <point x="1065.75" y="1456.0" type="line"/>
       <point x="1065.75" y="84.5" type="line"/>
-      <point x="1187.25" y="84.5" type="line"/>
-      <point x="1187.25" y="-290.0" type="line"/>
-      <point x="1100.25" y="-290.0" type="line"/>
-      <point x="1100.25" y="0.0" type="line"/>
+      <point x="1235.25" y="84.5" type="line"/>
+      <point x="1235.25" y="-290.0" type="line"/>
+      <point x="1148.25" y="-290.0" type="line"/>
+      <point x="1148.25" y="0.0" type="line"/>
       <point x="980.0" y="0.0" type="line"/>
       <point x="980.0" y="710.75" type="line"/>
       <point x="259.5" y="710.75" type="line"/>

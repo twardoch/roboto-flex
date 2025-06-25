@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.prop" format="2">
-  <advance width="900"/>
+  <advance width="900.0"/>
   <outline>
     <contour>
       <point x="56.25" y="376.85" type="qcurve" smooth="yes"/>

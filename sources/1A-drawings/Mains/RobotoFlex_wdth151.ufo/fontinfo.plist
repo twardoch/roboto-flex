@@ -16,43 +16,43 @@
     <array>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>DFSLLg3wDZ</string>
         <key>x</key>
-        <integer>267</integer>
+        <real>267.0</real>
         <key>y</key>
-        <integer>1220</integer>
+        <real>1220.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>zM0QejRTqE</string>
         <key>x</key>
-        <integer>842</integer>
+        <real>842.0</real>
         <key>y</key>
-        <integer>-30</integer>
+        <real>-30.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>cHR20HA7rc</string>
         <key>x</key>
-        <integer>326</integer>
+        <real>326.0</real>
         <key>y</key>
-        <integer>1600</integer>
+        <real>1600.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>zXDMq2Y3Rx</string>
         <key>x</key>
-        <integer>1290</integer>
+        <real>1290.0</real>
         <key>y</key>
-        <integer>-143</integer>
+        <real>-143.0</real>
       </dict>
     </array>
     <key>italicAngle</key>

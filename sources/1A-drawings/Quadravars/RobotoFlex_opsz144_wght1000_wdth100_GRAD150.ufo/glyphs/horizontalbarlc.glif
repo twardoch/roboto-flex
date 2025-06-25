@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horizontalbarlc" format="2">
-  <advance width="703"/>
+  <advance width="703.0"/>
   <outline>
     <contour>
       <point x="378.0" y="654.6666666666666" type="line"/>

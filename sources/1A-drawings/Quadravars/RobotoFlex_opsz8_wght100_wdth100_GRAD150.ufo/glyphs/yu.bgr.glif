@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yu.bgr" format="2">
-  <advance width="1689"/>
+  <advance width="1689.0"/>
   <outline>
     <contour>
       <point x="541.4" y="529.0" type="qcurve" smooth="yes"/>

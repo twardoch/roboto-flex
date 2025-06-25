@@ -1246,6 +1246,13 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>org.unifiedfontobject.normalizer.modTimes</key>
+    <string>version: 0.6.1
+1648592732.9 fontinfo.plist
+1648592732.9 groups.plist
+1648592733.0 kerning.plist
+1648592733.0 layercontents.plist
+1648592732.9 metainfo.plist</string>
     <key>public.glyphOrder</key>
     <array>
       <string>CR</string>
@@ -2195,6 +2202,7 @@
       <string>thinspace</string>
       <string>zerowidthspace</string>
       <string>zerowidthnbspace</string>
+      <string>hryvnia.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

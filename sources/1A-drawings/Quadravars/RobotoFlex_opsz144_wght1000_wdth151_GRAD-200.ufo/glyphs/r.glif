@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="1325"/>
+  <advance width="1325.0"/>
   <unicode hex="0072"/>
-  <anchor x="662.5" y="0" name="bottom"/>
+  <anchor x="662.5" y="0.0" name="bottom"/>
   <anchor x="702.0" y="914.0" name="top"/>
   <outline>
     <contour>

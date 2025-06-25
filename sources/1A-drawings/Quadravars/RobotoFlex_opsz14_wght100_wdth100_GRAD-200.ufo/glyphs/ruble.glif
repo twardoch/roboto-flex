@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ruble" format="2">
-  <advance width="1024"/>
+  <advance width="1024.0"/>
   <unicode hex="20BD"/>
   <outline>
     <contour>
@@ -26,10 +26,10 @@
       <point x="785.75" y="619.5"/>
     </contour>
     <contour>
-      <point x="802.25" y="381.5" type="line"/>
-      <point x="802.25" y="316.0" type="line"/>
-      <point x="30.0" y="316.0" type="line"/>
-      <point x="30.0" y="381.5" type="line"/>
+      <point x="802.25" y="352.25" type="line"/>
+      <point x="802.25" y="291.0" type="line"/>
+      <point x="30.0" y="291.0" type="line"/>
+      <point x="30.0" y="352.25" type="line"/>
     </contour>
   </outline>
 </glyph>

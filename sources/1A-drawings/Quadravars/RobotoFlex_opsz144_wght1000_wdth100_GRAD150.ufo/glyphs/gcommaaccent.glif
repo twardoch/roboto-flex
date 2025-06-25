@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcommaaccent" format="2">
-  <advance width="1323"/>
+  <advance width="1323.0"/>
   <unicode hex="0123"/>
   <outline>
     <contour>
@@ -53,12 +53,12 @@
       <point x="594.1333333333333" y="461.0" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1033.68" y="1301.0" type="line"/>
-      <point x="1004.68" y="1197.0"/>
-      <point x="968.68" y="1057.0"/>
-      <point x="945.6800000000001" y="929.0" type="qcurve"/>
-      <point x="420.3466666666667" y="927.0" type="line"/>
-      <point x="547.3466666666666" y="1304.0" type="line"/>
+      <point x="1033.26" y="1373.0" type="line"/>
+      <point x="1004.26" y="1269.0"/>
+      <point x="968.26" y="1129.0"/>
+      <point x="945.26" y="1001.0" type="qcurve"/>
+      <point x="419.9266666666667" y="999.0" type="line"/>
+      <point x="546.9266666666667" y="1376.0" type="line"/>
     </contour>
   </outline>
 </glyph>

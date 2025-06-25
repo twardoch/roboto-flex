@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m" format="2">
-  <advance width="2291"/>
+  <advance width="2291.0"/>
   <unicode hex="006D"/>
-  <anchor x="1133.5" y="0" name="bottom"/>
+  <anchor x="1133.5" y="0.0" name="bottom"/>
   <anchor x="1133.5" y="1089.12" name="top"/>
   <outline>
     <contour>

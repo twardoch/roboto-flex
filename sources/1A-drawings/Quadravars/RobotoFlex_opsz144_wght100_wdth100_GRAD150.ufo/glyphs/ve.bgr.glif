@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ve.bgr" format="2">
-  <advance width="898"/>
+  <advance width="898.0"/>
   <outline>
     <contour>
       <point x="102.5" y="366.26666666666665" type="qcurve" smooth="yes"/>

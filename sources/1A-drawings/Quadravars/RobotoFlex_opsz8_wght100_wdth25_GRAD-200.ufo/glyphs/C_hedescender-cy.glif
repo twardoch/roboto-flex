@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Chedescender-cy" format="2">
-  <advance width="1214"/>
+  <advance width="1209.0"/>
   <unicode hex="04B6"/>
   <outline>
     <contour>
@@ -22,14 +22,14 @@
       <point x="217.25" y="1456.0" type="line"/>
     </contour>
     <contour>
-      <point x="1064.25" y="-290.0" type="line"/>
-      <point x="1064.25" y="0.0" type="line"/>
+      <point x="1089.25" y="-290.0" type="line"/>
+      <point x="1089.25" y="0.0" type="line"/>
       <point x="921.0" y="0.0" type="line"/>
       <point x="921.0" y="1456.0" type="line"/>
       <point x="1005.75" y="1456.0" type="line"/>
       <point x="1005.75" y="79.5" type="line"/>
-      <point x="1150.25" y="79.5" type="line"/>
-      <point x="1150.25" y="-290.0" type="line"/>
+      <point x="1175.25" y="79.5" type="line"/>
+      <point x="1175.25" y="-290.0" type="line"/>
     </contour>
   </outline>
 </glyph>

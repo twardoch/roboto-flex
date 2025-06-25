@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.prop" format="2">
-  <advance width="875"/>
+  <advance width="875.0"/>
   <outline>
     <contour>
       <point x="642.3" y="0.0" type="line"/>

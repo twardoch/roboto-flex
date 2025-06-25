@@ -16,63 +16,63 @@
     <array>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>ZFbmL4oYFC</string>
         <key>x</key>
-        <integer>848</integer>
+        <real>848.0</real>
         <key>y</key>
-        <integer>1456</integer>
+        <real>1456.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>bxew5ylc5x</string>
         <key>x</key>
-        <integer>789</integer>
+        <real>789.0</real>
         <key>y</key>
-        <integer>0</integer>
+        <real>0.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>90</integer>
+        <real>90.0</real>
         <key>identifier</key>
         <string>6sugAHSHBK</string>
         <key>x</key>
-        <integer>735</integer>
+        <real>1045.0</real>
         <key>y</key>
-        <integer>758</integer>
+        <real>1195.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>PAH1Xr0r2b</string>
         <key>x</key>
-        <integer>922</integer>
+        <real>922.0</real>
         <key>y</key>
-        <integer>908</integer>
+        <real>908.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>5Ujv1w77cr</string>
         <key>x</key>
-        <integer>927</integer>
+        <real>927.0</real>
         <key>y</key>
-        <integer>592</integer>
+        <real>592.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>GJyZzytLpv</string>
         <key>x</key>
-        <integer>825</integer>
+        <real>825.0</real>
         <key>y</key>
-        <integer>1058</integer>
+        <real>1058.0</real>
       </dict>
     </array>
     <key>italicAngle</key>

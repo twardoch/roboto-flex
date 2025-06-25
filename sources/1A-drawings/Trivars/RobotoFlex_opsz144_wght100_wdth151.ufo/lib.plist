@@ -973,6 +973,13 @@
     <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
     <string>9407058832</string>
+    <key>org.unifiedfontobject.normalizer.modTimes</key>
+    <string>version: 0.6.1
+1648592748.0 fontinfo.plist
+1648592748.1 groups.plist
+1648592748.1 kerning.plist
+1648592748.1 layercontents.plist
+1648592748.0 metainfo.plist</string>
     <key>public.glyphOrder</key>
     <array>
       <string>CR</string>
@@ -1922,6 +1929,7 @@
       <string>thinspace</string>
       <string>zerowidthspace</string>
       <string>zerowidthnbspace</string>
+      <string>hryvnia.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

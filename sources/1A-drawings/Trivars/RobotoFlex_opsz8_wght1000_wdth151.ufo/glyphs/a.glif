@@ -2,9 +2,9 @@
 <glyph name="a" format="2">
   <advance width="1496"/>
   <unicode hex="0061"/>
-  <anchor x="732.0" y="0" name="bottom"/>
-  <anchor x="1085.0" y="0" name="ogonek"/>
-  <anchor x="732.0" y="1133" name="top"/>
+  <anchor x="759" y="0" name="bottom"/>
+  <anchor x="1112" y="0" name="ogonek"/>
+  <anchor x="759" y="1133" name="top"/>
   <outline>
     <contour>
       <point x="80" y="330" type="qcurve" smooth="yes"/>

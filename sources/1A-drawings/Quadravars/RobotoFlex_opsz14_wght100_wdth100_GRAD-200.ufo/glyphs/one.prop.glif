@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.prop" format="2">
-  <advance width="736"/>
+  <advance width="736.0"/>
   <outline>
     <contour>
       <point x="445.5" y="0.0" type="line"/>

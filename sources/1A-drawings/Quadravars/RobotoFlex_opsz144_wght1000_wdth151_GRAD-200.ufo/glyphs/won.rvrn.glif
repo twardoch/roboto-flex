@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won.rvrn" format="2">
-  <advance width="2780"/>
+  <advance width="2780.0"/>
   <outline>
     <contour>
       <point x="525.0" y="0.0" type="line"/>

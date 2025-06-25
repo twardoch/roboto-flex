@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.prop" format="2">
-  <advance width="900"/>
+  <advance width="900.0"/>
   <outline>
     <contour>
       <point x="105.5" y="0.0" type="line"/>

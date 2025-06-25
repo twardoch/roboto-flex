@@ -16,13 +16,13 @@
     <array>
       <dict>
         <key>angle</key>
-        <integer>90</integer>
+        <real>90.0</real>
         <key>identifier</key>
         <string>YEYllZEoxF</string>
         <key>x</key>
-        <integer>422</integer>
+        <real>422.0</real>
         <key>y</key>
-        <integer>1088</integer>
+        <real>1088.0</real>
       </dict>
     </array>
     <key>italicAngle</key>

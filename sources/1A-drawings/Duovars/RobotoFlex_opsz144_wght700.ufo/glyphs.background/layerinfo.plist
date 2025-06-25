@@ -3,11 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>color</key>
-    <string>0.0665,0.1104,0.0025,0.7</string>
+    <string>0.067,0.11,0.003,0.7</string>
     <key>lib</key>
     <dict>
       <key>org.unifiedfontobject.normalizer.imageReferences</key>
       <dict/>
+      <key>org.unifiedfontobject.normalizer.modTimes</key>
+      <string>version: 0.6.1
+1645484546.1 E_cyr.glif
+1645484546.1 L_je.glif
+1645484546.1 dje.glif
+1645484546.1 lje.glif</string>
     </dict>
   </dict>
 </plist>

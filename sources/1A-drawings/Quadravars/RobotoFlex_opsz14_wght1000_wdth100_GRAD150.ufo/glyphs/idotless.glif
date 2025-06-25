@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-  <advance width="629"/>
+  <advance width="629.0"/>
   <unicode hex="0131"/>
   <anchor x="314.5" y="1058.4116923077" name="top"/>
   <outline>

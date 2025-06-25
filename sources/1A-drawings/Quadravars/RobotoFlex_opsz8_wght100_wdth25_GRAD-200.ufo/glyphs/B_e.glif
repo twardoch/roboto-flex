@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Be" format="2">
-  <advance width="1143"/>
+  <advance width="1143.0"/>
   <unicode hex="0411"/>
   <outline>
     <contour>
       <point x="175.0" y="0.0" type="line"/>
       <point x="175.0" y="1456.0" type="line"/>
-      <point x="937.25" y="1456.0" type="line"/>
-      <point x="937.25" y="1376.25" type="line"/>
+      <point x="927.25" y="1456.0" type="line"/>
+      <point x="927.25" y="1376.25" type="line"/>
       <point x="257.75" y="1376.25" type="line"/>
       <point x="257.75" y="846.0" type="line"/>
       <point x="522.5" y="846.0" type="line" smooth="yes"/>

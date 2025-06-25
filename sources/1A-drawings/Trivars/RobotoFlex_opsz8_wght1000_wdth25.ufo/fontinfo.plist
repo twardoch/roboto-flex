@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <real>1536.0</real>
+    <integer>1536</integer>
     <key>capHeight</key>
     <integer>1456</integer>
     <key>copyright</key>
     <string>Copyright 2011, 2017 Google Inc. All Rights Reserved.</string>
     <key>descender</key>
-    <real>-416.0</real>
+    <integer>-416</integer>
     <key>familyName</key>
     <string>Roboto Flex</string>
     <key>guidelines</key>
@@ -216,6 +216,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <real>1116.0</real>
+    <integer>1116</integer>
   </dict>
 </plist>

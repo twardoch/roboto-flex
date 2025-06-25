@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="1272"/>
+  <advance width="1272.0"/>
   <unicode hex="0041"/>
-  <anchor x="636.0" y="0" name="bottom"/>
-  <anchor x="1262.0392156863" y="0" name="ogonek"/>
+  <anchor x="636.0" y="0.0" name="bottom"/>
+  <anchor x="1262.0392156863" y="0.0" name="ogonek"/>
   <anchor x="636.0" y="1456.0" name="top"/>
   <outline>
     <contour>

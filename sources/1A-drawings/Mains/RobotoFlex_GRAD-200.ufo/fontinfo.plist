@@ -16,63 +16,63 @@
     <array>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>KAwZh4uzs3</string>
         <key>x</key>
-        <integer>1217</integer>
+        <real>1217.0</real>
         <key>y</key>
-        <integer>292</integer>
+        <real>292.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>XbzgntFKTf</string>
         <key>x</key>
-        <integer>518</integer>
+        <real>518.0</real>
         <key>y</key>
-        <integer>1220</integer>
+        <real>1220.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>8gfTrCYaMn</string>
         <key>x</key>
-        <integer>354</integer>
+        <real>354.0</real>
         <key>y</key>
-        <integer>1602</integer>
+        <real>1602.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>90</integer>
+        <real>90.0</real>
         <key>identifier</key>
         <string>Ow5ZlYf4yo</string>
         <key>x</key>
-        <integer>101</integer>
+        <real>101.0</real>
         <key>y</key>
-        <integer>630</integer>
+        <real>630.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>ZkMAVn0Ubz</string>
         <key>x</key>
-        <integer>1152</integer>
+        <real>1152.0</real>
         <key>y</key>
-        <integer>90</integer>
+        <real>90.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>qALwTpCgNs</string>
         <key>x</key>
-        <integer>1036</integer>
+        <real>1036.0</real>
         <key>y</key>
-        <integer>1052</integer>
+        <real>1052.0</real>
       </dict>
     </array>
     <key>italicAngle</key>

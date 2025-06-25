@@ -16,23 +16,23 @@
     <array>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>YuucvC4q0d</string>
         <key>x</key>
-        <integer>497</integer>
+        <real>497.0</real>
         <key>y</key>
-        <integer>1476</integer>
+        <real>1476.0</real>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>0</integer>
+        <real>0.0</real>
         <key>identifier</key>
         <string>r2OfUiQVkJ</string>
         <key>x</key>
-        <integer>533</integer>
+        <real>533.0</real>
         <key>y</key>
-        <integer>-20</integer>
+        <real>-20.0</real>
       </dict>
     </array>
     <key>italicAngle</key>

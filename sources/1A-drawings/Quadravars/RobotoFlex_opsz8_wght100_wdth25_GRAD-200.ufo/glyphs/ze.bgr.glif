@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ze.bgr" format="2">
-  <advance width="970"/>
+  <advance width="970.0"/>
   <outline>
     <contour>
       <point x="90.0" y="-16.75" type="qcurve" smooth="yes"/>

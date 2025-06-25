@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb" format="2">
-  <advance width="1024"/>
+  <advance width="1024.0"/>
   <unicode hex="031B"/>
-  <anchor x="84.0" y="914.0" name="_topright"/>
-  <anchor x="85.0" y="1169.0" name="topright"/>
+  <anchor x="79.33333333333333" y="914.0" name="_topright"/>
+  <anchor x="80.33333333333333" y="1169.0" name="topright"/>
   <outline>
     <contour>
       <point x="0.0" y="914.0" type="line"/>

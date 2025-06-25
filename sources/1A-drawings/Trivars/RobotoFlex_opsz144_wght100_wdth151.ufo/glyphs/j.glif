@@ -24,18 +24,18 @@
       <point x="-123" y="-416"/>
     </contour>
     <contour>
-      <point x="193" y="1262" type="qcurve" smooth="yes"/>
-      <point x="193" y="1274"/>
-      <point x="207" y="1287"/>
-      <point x="220" y="1287" type="qcurve" smooth="yes"/>
-      <point x="233" y="1287"/>
-      <point x="246" y="1273"/>
-      <point x="246" y="1262" type="qcurve" smooth="yes"/>
-      <point x="246" y="1251"/>
-      <point x="233" y="1236"/>
+      <point x="199" y="1256" type="qcurve" smooth="yes"/>
+      <point x="199" y="1264"/>
+      <point x="210" y="1275"/>
+      <point x="220" y="1275" type="qcurve" smooth="yes"/>
+      <point x="230" y="1275"/>
+      <point x="240" y="1264"/>
+      <point x="240" y="1256" type="qcurve" smooth="yes"/>
+      <point x="240" y="1247"/>
+      <point x="229" y="1236"/>
       <point x="219" y="1236" type="qcurve" smooth="yes"/>
-      <point x="206" y="1236"/>
-      <point x="193" y="1251"/>
+      <point x="209" y="1236"/>
+      <point x="199" y="1247"/>
     </contour>
   </outline>
 </glyph>

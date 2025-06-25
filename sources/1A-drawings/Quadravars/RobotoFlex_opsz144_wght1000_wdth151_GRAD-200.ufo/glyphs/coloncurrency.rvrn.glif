@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="coloncurrency.rvrn" format="2">
-  <advance width="1901"/>
-  <guideline x="0" y="1570.0" angle="0" identifier="0DwZ2nfhdf"/>
+  <advance width="1901.0"/>
+  <guideline y="1570.0" identifier="0DwZ2nfhdf"/>
   <outline>
     <contour>
       <point x="48.0" y="733.0" type="qcurve" smooth="yes"/>

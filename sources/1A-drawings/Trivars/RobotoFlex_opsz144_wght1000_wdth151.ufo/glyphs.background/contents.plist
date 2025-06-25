@@ -102,5 +102,7 @@
     <string>ve.bgr.glif</string>
     <key>yu</key>
     <string>yu.glif</string>
+    <key>zhedescender</key>
+    <string>zhedescender.glif</string>
   </dict>
 </plist>

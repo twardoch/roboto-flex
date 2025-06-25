@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five.prop" format="2">
-  <advance width="900"/>
+  <advance width="900.0"/>
   <outline>
     <contour>
       <point x="69.43333333333334" y="370.7" type="qcurve" smooth="yes"/>

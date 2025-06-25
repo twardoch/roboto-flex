@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="engtail" format="2">
-  <advance width="629"/>
+  <advance width="629.0"/>
   <outline>
     <contour>
       <point x="407.0" y="80.0" type="line"/>

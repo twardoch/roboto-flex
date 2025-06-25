@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni20B2.rvrn" format="2">
-  <advance width="1225"/>
+  <advance width="1225.0"/>
   <outline>
     <contour>
       <point x="603.0" y="-190.0" type="line"/>

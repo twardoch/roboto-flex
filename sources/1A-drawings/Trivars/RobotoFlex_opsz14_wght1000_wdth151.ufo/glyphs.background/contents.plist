@@ -30,5 +30,9 @@
     <string>kaverticalstrokecyr.glif</string>
     <key>sha</key>
     <string>sha.glif</string>
+    <key>zhe</key>
+    <string>zhe.glif</string>
+    <key>zhedescender</key>
+    <string>zhedescender.glif</string>
   </dict>
 </plist>

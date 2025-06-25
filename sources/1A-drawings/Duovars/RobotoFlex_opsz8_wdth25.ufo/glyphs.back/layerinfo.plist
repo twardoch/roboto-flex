@@ -8,6 +8,9 @@
     <dict>
       <key>org.unifiedfontobject.normalizer.imageReferences</key>
       <dict/>
+      <key>org.unifiedfontobject.normalizer.modTimes</key>
+      <string>version: 0.6.1
+1645311576.0 breve.cyr.case.glif</string>
     </dict>
   </dict>
 </plist>

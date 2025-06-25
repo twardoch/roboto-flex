@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="be.locl" format="2">
-  <advance width="1302"/>
+  <advance width="1302.0"/>
   <outline>
     <contour>
       <point x="488.4" y="615.6" type="qcurve" smooth="yes"/>

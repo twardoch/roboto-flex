@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ordmasculine" format="2">
-  <advance width="932"/>
+  <advance width="932.0"/>
   <unicode hex="00BA"/>
-  <guideline x="0" y="1975.0" angle="0" identifier="Jnt0R9CyOf"/>
+  <guideline y="1975.0" identifier="Jnt0R9CyOf"/>
   <outline>
     <contour>
       <point x="135.66666666666666" y="1043.0" type="qcurve"/>

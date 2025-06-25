@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ghe.bgr" format="2">
-  <advance width="1594"/>
+  <advance width="1594.0"/>
   <outline>
     <contour>
       <point x="1562.5" y="330.0" type="line"/>

@@ -1017,7 +1017,7 @@
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>4493188944</string>
+    <string>8267497104</string>
     <key>com.typemytype.robofont.temp.layerShowCoordinates</key>
     <false/>
     <key>com.typemytype.robofont.temp.layerShowFill</key>
@@ -1603,12 +1603,12 @@
       </array>
     </array>
     <key>org.unifiedfontobject.normalizer.modTimes</key>
-    <string>version: 0.5.3
-1619042699.6 fontinfo.plist
-1619042699.6 groups.plist
-1619042699.6 kerning.plist
-1619042699.6 layercontents.plist
-1619042699.5 metainfo.plist</string>
+    <string>version: 0.6.1
+1648415582.0 fontinfo.plist
+1648415582.0 groups.plist
+1645311617.0 kerning.plist
+1648592743.8 layercontents.plist
+1648415582.0 metainfo.plist</string>
     <key>public.glyphOrder</key>
     <array>
       <string>CR</string>
@@ -2558,6 +2558,7 @@
       <string>thinspace</string>
       <string>zerowidthspace</string>
       <string>zerowidthnbspace</string>
+      <string>hryvnia.rvrn</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="diagonalbarL" format="2">
-  <advance width="741"/>
+  <advance width="741.0"/>
   <outline>
     <contour>
       <point x="57.25" y="483.75" type="line"/>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
-  <advance width="1657"/>
+  <advance width="1657.0"/>
   <unicode hex="006F"/>
-  <anchor x="828.5" y="0" name="bottom"/>
+  <anchor x="828.5" y="0.0" name="bottom"/>
   <anchor x="828.5" y="728.0" name="center"/>
-  <anchor x="934.0" y="0" name="ogonek"/>
+  <anchor x="934.0" y="0.0" name="ogonek"/>
   <anchor x="828.5" y="914.0" name="top"/>
   <anchor x="1142.0" y="914.0" name="topright"/>
   <outline>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tse.bgr" format="2">
-  <advance width="1709"/>
+  <advance width="1709.0"/>
   <outline>
     <contour>
       <point x="74.5" y="337.0" type="qcurve" smooth="yes"/>

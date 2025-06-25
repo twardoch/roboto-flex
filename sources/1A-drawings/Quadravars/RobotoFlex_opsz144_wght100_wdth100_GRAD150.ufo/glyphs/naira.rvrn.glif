@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="naira.rvrn" format="2">
-  <advance width="869"/>
+  <advance width="869.0"/>
   <outline>
     <contour>
       <point x="777.2333333333333" y="1456.0" type="line"/>

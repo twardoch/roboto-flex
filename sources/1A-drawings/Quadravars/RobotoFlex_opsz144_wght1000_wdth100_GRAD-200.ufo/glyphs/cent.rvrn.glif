@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cent.rvrn" format="2">
-  <advance width="1180"/>
+  <advance width="1180.0"/>
   <outline>
     <contour>
       <point x="643.0" y="552.5" type="qcurve" smooth="yes"/>

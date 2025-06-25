@@ -4,12 +4,20 @@
   <dict>
     <key>Ecyr</key>
     <string>E_cyr.glif</string>
+    <key>Ka</key>
+    <string>K_a.glif</string>
+    <key>Kabashkircyr</key>
+    <string>K_abashkircyr.glif</string>
     <key>Kadescender</key>
     <string>K_adescender.glif</string>
+    <key>Kaverticalstrokecyr</key>
+    <string>K_averticalstrokecyr.glif</string>
     <key>Tshe</key>
     <string>T_she.glif</string>
     <key>Ze</key>
     <string>Z_e.glif</string>
+    <key>Zhe</key>
+    <string>Z_he.glif</string>
     <key>Zhe.bgr</key>
     <string>Z_he.bgr.glif</string>
     <key>Zhedescender</key>
