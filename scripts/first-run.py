@@ -4,11 +4,12 @@
 # is cloned. If you are reading this because the automatic initialization failed,
 # skip down to the section headed "INITIALIZATION STEPS".
 
-from sh import git
 import re
+import subprocess
 import sys
 from urllib.parse import quote
-import subprocess
+
+from sh import git
 
 BASE_OWNER = "googlefonts"
 BASE_REPONAME = "Unified-Font-Repository"

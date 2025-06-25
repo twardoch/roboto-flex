@@ -4,15 +4,14 @@
 # $ cd my-font
 # $ python3 documentation/image1.py --output documentation/image1.png
 
-# Import moduels from external python packages: https://pypi.org/
-from drawbot_skia.drawbot import *
-from fontTools.ttLib import TTFont
-from fontTools.misc.fixedTools import floatToFixedToStr
-
+import argparse
 # Import moduels from the Python Standard Library: https://docs.python.org/3/library/
 import subprocess
-import sys
-import argparse
+
+# Import moduels from external python packages: https://pypi.org/
+from drawbot_skia.drawbot import *
+from fontTools.misc.fixedTools import floatToFixedToStr
+from fontTools.ttLib import TTFont
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 2048, 128, 1
@@ -24,7 +23,7 @@ BIG_TEXT = "Aa"
 BIG_TEXT_FONT_SIZE = 1024
 BIG_TEXT_SIDE_MARGIN = MARGIN * 3.1
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.5
-GRID_VIEW = False # Change this to "True" for a grid overlay
+GRID_VIEW = False  # Change this to "True" for a grid overlay
 
 # Handel the "--output" flag
 # For example: $ python3 documentation/image1.py --output documentation/image1.png
@@ -91,7 +90,7 @@ def draw_main_text():
     # Adjust this line to center main text manually.
     # TODO: This should be done automatically when drawbot-skia
     # has support for textBox() and FormattedString
-    #text(BIG_TEXT, ((WIDTH / 2) - MARGIN * 4.75, (HEIGHT / 2) - MARGIN * 2.5))
+    # text(BIG_TEXT, ((WIDTH / 2) - MARGIN * 4.75, (HEIGHT / 2) - MARGIN * 2.5))
     text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
 
 
